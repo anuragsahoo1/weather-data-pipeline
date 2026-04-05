@@ -48,5 +48,5 @@ weather-data-pipeline/
 
 ### 1. Clone repository
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/anuragsahoo1/weather-data-pipeline.git>
 cd weather-data-pipeline
