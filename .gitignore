@@ -1,0 +1,17 @@
+.env
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# Virtual env
+weather-env/
+
+# Airflow
+airflow.db
+logs/
+
+# macOS
+.DS_Store
